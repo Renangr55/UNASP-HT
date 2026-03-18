@@ -1,0 +1,122 @@
+
+BÁSICO DO BÁSICO:
+- As quatro operações básicas ✅
+- Expressões númericas
+- Frações
+- Operações com números decimais
+- Dízimas Periódicas
+- Múltiplos e Divisores
+- Critérios de Divisibilidade
+- MMC e MDC
+- Potenciação
+- Notação Cientifica
+- Transformação de Unidades
+- Radiciação
+- Produtos Notáveis
+- Fatoração
+- Equações do Primeiro Grau
+- Sistemas de Equações
+- Equação do Segundo Grau
+- Razão e Proporção
+- Regra de Três Simples
+- Regra de Três Composta
+- Escalas
+- Porcentagem
+- Juros Simples e Compostos
+
+CONJUNTOS:
+- Conceitos Básicos de Conjuntos
+- União e Interseção de Conjuntos
+- Conjuntos Numéricos
+
+FUNÇÕES:
+- Introdução às Funções
+- Funções Lineares
+- Função Afim
+- Função do Segundo Grau
+- Máximos e Mínimos da Função
+- Função Composta e Inversa
+- Gráficos de Funções
+- Inequações
+- Classificação de Funções
+- Módulo
+- Função Modular
+- Equações Modulares
+- Função Exponencial
+- Equação Exponencial
+- Logaritimo e Propriedades
+- Função Logarítima
+
+GEOMETRIA PLANA:
+- Fundamentos de Ângulos
+- Triângulos
+- Congruência de Triângulos
+- Pontos Notáveis de um triângulo
+- Quadriláteros
+- Polígonos
+- Circunferência e Círculo
+- Semelhança de Triângulos
+- Relações Métricas no Triângulo Quadrilátero
+- Relações Métricas na Circunferência
+- Relações Métricas em Figuras Semelhantes
+- Relações Métricas no Triângulo Retângulo
+
+TRIGONOMETRIA:
+- Conceitos Básicos de Trigonometria
+- Trigonometria no Triângulo Retângulo
+- Lei dos Senos e Cossenos
+- Lei das Áreas
+- Ciclo Trigonométrico
+- Função Trigonométrica
+
+GEOMETRIA ESPACIAL:
+- Conceitos de Geo. Espacial
+- Projeções Ortogonais
+- Poliedros e Prismas
+- Pirâmides
+- Cilindros e Cones
+- Esfera
+- Inscrição e Circunscrição
+- Geometria de Posição
+
+PROGRESSÕES:
+- Introdução às Sequências Numéricas
+- Progressão Aritmética
+- Progressão Geométrica
+
+ANALISE COMBINATÓRIA:
+
+- Noções Básicas de Combinatória
+- Fatorial
+- Permutações Simples
+- Permutação com Repetição
+- Permutação Circular
+- Combinação
+- Arranjo
+- Probabilidade
+- Soma e Multiplicação de Probabilidades
+
+ESTATÍSTICA:
+- Introdução a Estatística
+- Média Aritmética e Ponderada
+- Mediana e Moda
+
+GEOMETRIA ANALITICA:
+- Introdução à Geometria Analítica
+- Áreas de Figuras Planas
+- Equações da Reta
+- Posições entre Retas
+- Equações da Circunferência
+
+
+PRÉ-CALCULO: (https://pt.khanacademy.org/math/precalculus)
+- Funções Compostas e Inversas
+- Trigonometria
+- Números Complexos
+- Funções Racionais
+- Seções Cônicas
+- Vetores
+- Matrizes
+- Probabilidade e Análise Combinatória
+- Séries
+- Limites e Continuidade
